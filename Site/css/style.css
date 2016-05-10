@@ -1,3 +1,8 @@
+/*une petite mise en page */
+header{
+	background: grey;	
+	border: 15px black solid;
+}
 h1{
 	font-style: italic;
 }
